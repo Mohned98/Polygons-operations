@@ -1,0 +1,157 @@
+Polygons=[(4,8),(4,3),(4,3),(10,3),(13,3),(13,8),(13,8);(-1,5),(-4,11),(2,18),(2,18),(2,18),(8,6);(17,14),(9,9),(14,5),(17,14);(-13,-1),(-6,3),(2,-11),(-5,-15),(-9,-8),(-9,-8);(7,-14),(4,-17),(4,-17),(-1,-14),(-2,-9),(3,-6),(10,-7),(6,-11);(-7,12),(-6.5,13),(3,4),(3,4),(-8,10);(19,-8),(19,-8),(16,-3),(10,-4),(7,-8),(10,-11),(13,-8),(14,-12),(19,-8),(19,-8);(7,-4),(5,-5),(3,-6),(5,-1);(3,-6),(1,-2),(-1,-4)]
+Number_Polygons
+Total_Number_Point
+Minimum_X
+Maximum_X
+Minimum_Y
+Maximum_Y
+Enclosing_Rectangle
+Total_Redundant_Points
+Polygon_Points 1
+Polygon_Points 4
+Polygon_Points 5
+Polygon_Points 7
+Point_Polygons (3,-6)
+Point_Polygons (9,9)
+Point_Polygons (-9,-8)
+List_Polygons_Points More 3
+List_Polygons_Points Less 7
+List_Polygons_Points Equal 7
+List_Points_Polygons More 3
+List_Points_Polygons Less 3
+List_Points_Polygons Equal 3
+Polygon_Perimeter 1
+Polygon_Perimeter 2
+Polygon_Perimeter 6
+Polygon_Perimeter 5
+List_Triangles
+List_Rectangles
+List_Trapezoid
+
+Inside_Rectangle (-5,19),(11,19),(11,-18),(-5,-18)
+Inside_Circle (3,0),7
+
+Polygon_Area 1
+Polygon_Area 6
+Polygon_Area 4
+Polygon_Area 8
+Polygons_Area_Range 10,50
+Polygons_Enclosing_Point (5,7)
+Polygons_Enclosing_Point (0,-10)
+Polygons_Enclosing_Point (3,-6)
+Is_Intersecting	1,6
+Is_Intersecting 1,3
+Is_Intersecting 1,2
+Is_Intersecting 2,3
+Intersecting_Group 5,8,9
+Intersecting_Group 4,5,7
+Largest_Intersecting_Pair
+Is_Connected 2,3
+Is_Connected_Group 4,5,7
+Maximum_Connected_Group
+Quit
+
+
+
+Polygons=[(4,8),(4,3),(4,3),(10,3),(13,3),(13,8),(13,8);(-1,5),(-4,11),(2,18),(2,18),(2,18),(8,6);(17,14),(9,9),(14,5),(17,14);(-13,-1),(-6,3),(2,-11),(-5,-15),(-9,-8),(-9,-8);(7,-14),(4,-17),(4,-17),(-1,-14),(-2,-9),(3,-6),(10,-7),(6,-11);(-7,12),(-6.5,13),(3,4),(3,4),(-8,10);(19,-8),(19,-8),(16,-3),(10,-4),(7,-8),(10,-11),(13,-8),(14,-12),(19,-8),(19,-8);(7,-4),(5,-5),(3,-6),(5,-1);(3,-6),(1,-2),(-1,-4)]
+Number_Polygons
+9
+Total_Number_Points
+38
+Minimum_X
+-13
+Maximum_X
+19
+Minimum_Y
+-17
+Maximum_Y
+18
+Enclosing_Rectangle
+(-13,-17),(19,-17),(19,18),(-13,18)
+Total_Redundant_Points
+15
+Polygon_Points 1
+(4,8),(4,3),(13,3),(13,8)
+Polygon_Points 4
+(-13,-1),(-6,3),(2,-11),(-5,-15)
+Polygon_Points 5
+(7,-14),(4,-17),(-1,-14),(-2,-9),(3,-6),(10,-7),(6,-11)
+Polygon_Points 7
+(19,-8),(16,-3),(10,-4),(7,-8),(10,-11),(13,-8),(14,-12)
+Point_Polygons (3,-6)
+5,8,9
+Point_Polygons (9,9)
+3
+Point_Polygons (-9,-8)
+none
+List_Polygons_Points More 3
+1,2,4,5,7
+List_Polygons_Points Less 7
+1,2,3,4,6,8,9
+List_Polygons_Points Equal 7
+5,7
+List_Points_Polygons More 3
+none
+List_Points_Polygons Less 3
+(4,8),(4,3),(13,3),(13,8),(-1,5),(-4,11),(2,18),(8,6),(17,14),(9,9),(14,5),(-13,-1),(-6,3),(2,-11),(-5,-15),(7,-14),(4,-17),(-1,-14),(-2,-9),(10,-7),(6,-11),(-6.5,13),(3,4),(-8,10),(19,-8),(16,-3),(10,-4),(7,-8),(10,-11),(13,-8),(14,-12),(7,-4),(5,-1),(1,-2),(-1,-4)
+List_Points_Polygons Equal 3
+(3,-6)
+Polygon_Perimeter 1
+28
+Polygon_Perimeter 2
+38.3995
+Polygon_Perimeter 6
+28.9703
+Polygon_Perimeter 5
+36.8938
+List_Triangles
+3,6,8,9
+List_Rectangles
+1,4
+List_Trapezoid
+2
+Inside_Rectangle (-5,19),(11,19),(11,-18),(-5,-18)
+2,5,8,9
+Inside_Circle (3,0),7
+8,9
+Polygon_Area 1
+45
+Polygon_Area 6
+21
+Polygon_Area 4
+130
+Polygon_Area 8
+8
+Polygons_Area_Range 10,50
+1,3,6
+Polygons_Enclosing_Point (5,7)
+1,2
+Polygons_Enclosing_Point (0,-10)
+4,5
+Polygons_Enclosing_Point (3,-6)
+5,8,9
+Is_Intersecting 1,6
+FALSE
+Is_Intersecting 1,3
+TRUE
+Is_Intersecting 1,2
+TRUE
+Is_Intersecting 2,3
+FALSE
+Intersecting_Group 5,8,9
+TRUE
+Intersecting_Group 4,5,7
+FALSE
+Largest_Intersecting_Pair
+4,5
+Is_Connected 2,3
+TRUE
+Is_Connected_Group 4,5,7
+TRUE
+Maximum_Connected_Group
+4,5,7,8,9
+Quit
+
+
+
+

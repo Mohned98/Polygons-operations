@@ -1,0 +1,24 @@
+﻿  The project.cpp
+a:\the project\the project\the project.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(430): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(432): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(826): error C2371: 'cx': redefinition; different basic types
+  a:\the project\the project\the project.cpp(825): note: see declaration of 'cx'
+a:\the project\the project\the project.cpp(828): error C2371: 'cy': redefinition; different basic types
+  a:\the project\the project\the project.cpp(827): note: see declaration of 'cy'
+a:\the project\the project\the project.cpp(830): error C2371: 'radius': redefinition; different basic types
+  a:\the project\the project\the project.cpp(829): note: see declaration of 'radius'
+a:\the project\the project\the project.cpp(831): error C2088: '<<': illegal for class
+a:\the project\the project\the project.cpp(885): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(952): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(954): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+a:\the project\the project\the project.cpp(996): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(998): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1018): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1023): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1027): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1095): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1097): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+a:\the project\the project\the project.cpp(1126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
